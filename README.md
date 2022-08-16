@@ -21,6 +21,7 @@ A large technology firm needs your help, they’ve been hacked! Luckily their fo
 * ‘Location’: Location attack came from (Probably useless because the hackers used VPNs)
 * ‘WPM_Typing_Speed’: Their estimated typing speed based on session logs.
 
-
+<br>
+<br>
 The conclusion at the end of the notebook
 ### Bingo! It was 2 hackers, in fact, our clustering algorithm created two equally sized clusters with K=2, no way that is a coincidence! Furthermore, k=2 respects our condition "< 6" which we discovered earlier. 
