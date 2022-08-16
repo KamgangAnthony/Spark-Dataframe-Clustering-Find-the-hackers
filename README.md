@@ -1,6 +1,8 @@
 # Spark-Dataframe-Clustering-Find-the-hackers
 Using clustering, find the number of hackers involved
 
+* The entire project is undertaken on an AWS ubuntu virtual machine.
+
 A large technology firm needs your help, they’ve been hacked! Luckily their forensic engineers have grabbed valuable data about the hacks, including information like session time,locations, wpm typing speed, etc. The forensic engineer relates to you what she has been able to figure out so far, she has been able to grab meta data of each session that the hackers used to connect to their servers.
 
 * Created a model that can find the number of hackers by clustering similar activities.
@@ -9,7 +11,7 @@ A large technology firm needs your help, they’ve been hacked! Luckily their fo
 
 
 ## Code and Resources Used 
-**Languages and Packages:** python, sql, pyspark, KMeans clustering
+**Languages and Packages:** python, sql, pyspark, KMeans clustering, AWS
 
 ## These are the features of the data:
 
